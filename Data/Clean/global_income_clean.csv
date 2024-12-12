@@ -1,5 +1,7 @@
 Country,Cost index,Ø Monthly income,Purchasing power index
+Argentina,33.4,550 USD,15.0
 Colombia,38.2,543 USD,22.3
+Estonia,55.0,"1,900 USD",35.0
 Georgia,36.7,468 USD,20.0
 Mexico,58.5,868 USD,23.3
 Philippines,36.5,329 USD,14.2
@@ -7,5 +9,5 @@ Portugal,67.9,"2,150 USD",49.7
 Serbia,47.4,762 USD,25.2
 Spain,73.0,"2,640 USD",56.9
 Thailand,34.7,603 USD,27.3
-United States,100.0,"6,364 USD",100.0
+Uruguay,60.0,"1,000 USD",30.0
 Vietnam,32.4,334 USD,16.2
