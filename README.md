@@ -1,5 +1,3 @@
-# digital_nomads
-
 # Best Countries for Remote Work Analysis
 
 ## Overview
