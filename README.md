@@ -1,4 +1,4 @@
-# Best Countries for Remote Work Analysis
+# Best Countries for Digital Nomads Analysis
 
 ## Overview
 
