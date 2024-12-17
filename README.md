@@ -2,13 +2,13 @@
 
 ## Overview
 
-This project analyzes various factors to determine the best countries for remote work. The analysis focuses on factors such as Weather, Cost of Living (rent price, groceries, utilities), Work Permits (Information on work visa policies, including the types of visas, income requirements)
+This project analyzes various factors to determine the best countries for remote work. The analysis focuses on factors such as Weather, Cost of Living (rent price, groceries, utilities), Work Permits (Information on work visa policies, including the types of visas, income requirements).
 
 The project uses Python and SQL queries to combine these factors and generate insights about the best cities and countries for remote workers. The analysis data are used to filter and sort the information based on user preferences, such as affordable living costs or ideal weather conditions.
 
 ## Prerequisites
 
-To run this project, it is necessary to have Python, SQLWorkbench, Tableau
+To run this project, it is necessary to have Python, SQLWorkbench, Tableau.
 
 ## Datasets
 
@@ -28,3 +28,4 @@ Further extended analysis by exploring additional countries, focusing on regiona
 
 ## Presentation
 
+https://www.canva.com/design/DAGZLpc9jdo/_wlN29YNrHTG3jl2oZpPNw/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19fQ
