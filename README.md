@@ -8,7 +8,7 @@ The project uses Python and SQL queries to combine these factors and generate in
 
 ## Prerequisites
 
-To run this project, it is necessary to have Python, SQL Workbench, Tableau
+To run this project, it is necessary to have Python, SQLWorkbench, Tableau
 
 ## Datasets
 
@@ -24,7 +24,7 @@ This project helps you analyze various factors that affect remote work, such as 
 
 ## Further analysis
 
-Further extended analysis by adding more factors and deeper insight in taxes, healthcare, social and economic programs or language barriers.
+Further extended analysis by exploring additional countries, focusing on regional climate variations, tax systems, healthcare quality, social and economic programs, and language barriers.
 
 ## Presentation
 
