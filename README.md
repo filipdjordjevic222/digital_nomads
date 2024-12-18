@@ -15,10 +15,18 @@ To run this project, it is necessary to have Python, SQLWorkbench, Tableau.
 The data for this project was primarily sourced from publicly available datasets on Kaggle, which provided comprehensive information on cost of living, rent prices, and weather data for various countries and cities.
 
 In addition, web scraping techniques were employed to gather data on work permit policies (such as visa types and requirements), as this specific information was not readily available in structured datasets. To complete the dataset, manual collection was also used to fill in any missing or incomplete data points, ensuring a more comprehensive and accurate analysis.
-<details>
+<reference list>
+## Refernece list
+- https://www.kaggle.com/datasets/zabihullah18/crime-rate-by-country-2023
+- https://www.kaggle.com/datasets/marianadeem755/global-cost-of-living-rankingsaffordability-index/data
+- https://www.kaggle.com/datasets/blitzr/movehub-city-rankings?select=cities.csv
+- https://www.kaggle.com/datasets/mvieira101/global-cost-of-living?select=cost-of-living_v2.csv
+- https://www.kaggle.com/datasets/bhadramohit/climate-change-dataset
+- https://www.kaggle.com/datasets/bilalwaseer/worlds-cities-with-their-average-temperature
+- https://visaguide.world/digital-nomad-visa/digital-nomad-index/
+- https://freakingnomads.com/what-is-digital-nomad-visa/
 
-
-</details>
+</reference list>
 
 ## Conclusion
 
